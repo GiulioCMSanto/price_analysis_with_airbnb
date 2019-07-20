@@ -9,10 +9,15 @@ The main motivation of this project is how to use real world data to answer busi
 This repository contains the following files:
 
 README.MD: the present file
+
 project_jupyter.ipynb: all the analysis made in the project
+
 boston/calendar.csv: contains booking data (such as date and availability) for Boston (July 2019).
+
 boston/listings.csv: contains detailed listings data for Boston (July 2019).
+
 seattle/calendar.csv: contains booking data (such as date and availability) for Seattle (July 2019).
+
 seattle/listings.csv: contains detailed listings data for Seattle (July 2019).
 
 Notice: all the files belongs to Airbnb an can be obtained here: http://insideairbnb.com/get-the-data.html
