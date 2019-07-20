@@ -25,6 +25,8 @@ This project was motivated by the following main questions:
 ### Results
 The results were used for the publication of a Medium article and can be accessed through the link: https://medium.com/@giuliosanto/how-will-you-get-the-best-of-airbnb-9909217ba5d
 
+Some of the obtained results were:
+
 - It was possible to model the listing price using a Random Forest Regressor, with mean r2 test score of 0.438 in a 5-fold cross validation.
 - The data suggests that prices are higher between July and September and lower between November and March for both cities.
 - Both cities present a left skewed price distribution, suggesting that prices are more concentrated at lower values.
