@@ -19,10 +19,12 @@ This project was motivated by the following main questions:
 
 - How do the prices varies over time? Is it possible to identify seasonal behaviours?
 - Do the prices vary considerably from one city to another?
-- Is it possible to predict the listing price for in a certain city?
+- Is it possible to predict the listing price for a certain city?
 - What characteristics are most related to prices changes?
 
 ### Results
+The results were used for the publication of a Medium article and can be accessed through the link: https://medium.com/@giuliosanto/how-will-you-get-the-best-of-airbnb-9909217ba5d
+
 - It was possible to model the listing price using a Random Forest Regressor, with mean r2 test score of 0.438 in a 5-fold cross validation.
 - The data suggests that prices are higher between July and September and lower between November and March for both cities.
 - Both cities present a left skewed price distribution, suggesting that prices are more concentrated at lower values.
